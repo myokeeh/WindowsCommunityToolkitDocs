@@ -34,7 +34,9 @@
     "externalReference": [],
     "globalMetadata": {
       "titleSuffix": "Windows Community Toolkit",
-      "searchScope": ["UWPtoolkit"],
+      "searchScope": [
+        "UWPtoolkit"
+      ],
       "feedback_system": "GitHub",
       "feedback_github_repo": "MicrosoftDocs/UWPCommunityToolkitDocs",
       "feedback_product_url": "https://github.com/Microsoft/WindowsCommunityToolkit/issues",
@@ -50,6 +52,7 @@
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "UWPCommunityToolkitDocs"
+    "dest": "UWPCommunityToolkitDocs",
+    "markdownEngineName": "markdig"
   }
 }

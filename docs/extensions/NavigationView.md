@@ -21,7 +21,7 @@ The following example shows you how to modify a NavigationView to use the Visual
 
 ```xaml
     ... xmlns:ex="using:Microsoft.Toolkit.Uwp.UI.Extensions">
-  
+
     <Page.Resources>
       <ResourceDictionary>
         <ResourceDictionary.MergedDictionaries>
@@ -41,7 +41,6 @@ The following example shows you how to modify a NavigationView to use the Visual
                     <FontIcon Glyph="&#xE8C8;"/>
                 </NavigationViewItem.Icon>
     ...
-
 ```
 
 You need to include the toolkit extensions namespace, add the style dictionary to your resources, utilize the styles, and add the extension properties to modify the behavior.

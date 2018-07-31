@@ -1,0 +1,4027 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/1/s/target_repo/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/AddNugetServices.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/AddNugetServices.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations-Blur.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations-Blur.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations-Fade.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations-Fade.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations-FadeHeader.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations-FadeHeader.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations-Light.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations-Light.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations-Offset.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations-Offset.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations-Rotate.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations-Rotate.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations-Saturation.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations-Saturation.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations-Scale.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations-Scale.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/AnimationSet/Use-Case-1.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/AnimationSet/Use-Case-1.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/AnimationSet/Use-Case-2.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/AnimationSet/Use-Case-2.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Blur/Sample-Output.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Blur/Sample-Output.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Blur/Use-Case-1.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Blur/Use-Case-1.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Chaining-Animations-Blur-Fade-Rotate.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Chaining-Animations-Blur-Fade-Rotate.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Chaining-Animations-Light-Offset-Saturation-Scale.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Chaining-Animations-Light-Offset-Saturation-Scale.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/CompositionAnimations/Example-Output-1.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/CompositionAnimations/Example-Output-1.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Fade/Sample-Output.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Fade/Sample-Output.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/FadeHeader/Sample-Output.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/FadeHeader/Sample-Output.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/ImplicitAnimations/Example-Output-1.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/ImplicitAnimations/Example-Output-1.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/ImplicitAnimations/Example-Output-2.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/ImplicitAnimations/Example-Output-2.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/ImplicitAnimations/Example-Output-3.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/ImplicitAnimations/Example-Output-3.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Light/Sample-Output.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Light/Sample-Output.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Offset/Sample-Output.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Offset/Sample-Output.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Offset/Use-Case-1.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Offset/Use-Case-1.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/ParallaxService/Sample-Output.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/ParallaxService/Sample-Output.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/ReorderGridAnimation/Sample-Output.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/ReorderGridAnimation/Sample-Output.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Rotate/Sample-Output.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Rotate/Sample-Output.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Saturation/Sample-Output.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Saturation/Sample-Output.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Saturation/Use-Case-1.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Saturation/Use-Case-1.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Scale/Sample-Output.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Scale/Sample-Output.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Scale/Use-Case-1.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/Scale/Use-Case-1.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/connected.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Animations/connected.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes-BackdropBlur.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes-BackdropBlur.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes-BackdropGamma.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes-BackdropGamma.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes-BackdropInvert.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes-BackdropInvert.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes-BackdropSaturation.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes-BackdropSaturation.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes-BackdropSepia.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes-BackdropSepia.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes-ImageBlend.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes-ImageBlend.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes-RadialGradient.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes-RadialGradient.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes/BackdropBlur.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes/BackdropBlur.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes/BackdropGamma.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes/BackdropGamma.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes/BackdropInvert.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes/BackdropInvert.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes/BackdropSaturation.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes/BackdropSaturation.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes/BackdropSepia.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes/BackdropSepia.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes/ImageBlend.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes/ImageBlend.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes/RadialGradient.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Brushes/RadialGradient.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/CodeAnalysis.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/CodeAnalysis.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/CodeAnalysisVB.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/CodeAnalysisVB.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/CodeFixSuggestion.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/CodeFixSuggestion.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/CodeFixSuggestionVB.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/CodeFixSuggestionVB.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-AdaptiveGridView.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-AdaptiveGridView.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-BladeView.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-BladeView.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-Carousel-InvertPositive01.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-Carousel-InvertPositive01.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-Carousel-InvertPositive02.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-Carousel-InvertPositive02.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-Carousel-ItemDepth01.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-Carousel-ItemDepth01.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-Carousel-ItemDepth02.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-Carousel-ItemDepth02.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-Carousel-ItemMargin01.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-Carousel-ItemMargin01.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-Carousel-ItemMargin02.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-Carousel-ItemMargin02.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-Carousel-ItemRotation.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-Carousel-ItemRotation.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-Carousel-Orientation.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-Carousel-Orientation.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-Carousel-Overview.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-Carousel-Overview.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-DockPanel.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-DockPanel.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-DropShadowPanel.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-DropShadowPanel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-Expander.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-Expander.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-GridSplitter.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-GridSplitter.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-HamburgerMenu.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-HamburgerMenu.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-HeaderedContentControl.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-HeaderedContentControl.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-HeaderedItemsControl.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-HeaderedItemsControl.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-HeaderedTextBlock.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-HeaderedTextBlock.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-ImageEx.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-ImageEx.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-InAppNotification.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-InAppNotification.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-MarkdownTextBlock.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-MarkdownTextBlock.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-MasterDetailsView.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-MasterDetailsView.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-Menu.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-Menu.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-OrbitView.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-OrbitView.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-PullToRefreshListView.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-PullToRefreshListView.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-RadialGauge.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-RadialGauge.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-RadialProgressBar.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-RadialProgressBar.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-RangeSelector.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-RangeSelector.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-RotatorTile.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-RotatorTile.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-ScrollHeader.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-ScrollHeader.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-SlidableListItem.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-SlidableListItem.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-StaggeredPanel.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-StaggeredPanel.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-TextBoxMask.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-TextBoxMask.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-TextBoxRegex.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-TextBoxRegex.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-TextToolbar.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-TextToolbar.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-WrapPanel.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls-WrapPanel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/AdaptiveGridView.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/AdaptiveGridView.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/AdaptiveGridView/AdaptiveGridView-DesiredWidthItemHeight.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/AdaptiveGridView/AdaptiveGridView-DesiredWidthItemHeight.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/AdaptiveGridView/AdaptiveGridView-OneRowMode.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/AdaptiveGridView/AdaptiveGridView-OneRowMode.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/AdaptiveGridView/AdaptiveGridView-ViewboxAspectRatio.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/AdaptiveGridView/AdaptiveGridView-ViewboxAspectRatio.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/BladeView.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/BladeView.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/Carousel-Overview.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/Carousel-Overview.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DataGrid/DataGrid.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DataGrid/DataGrid.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DataGrid/alternaterowbackground.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DataGrid/alternaterowbackground.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DataGrid/editing.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DataGrid/editing.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DataGrid/frozencolumns.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DataGrid/frozencolumns.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DataGrid/gridlines.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DataGrid/gridlines.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DataGrid/grouping.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DataGrid/grouping.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DataGrid/resizecolumns.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DataGrid/resizecolumns.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DataGrid/rowdetails.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DataGrid/rowdetails.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DataGrid/selection.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DataGrid/selection.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DataGrid/sorting.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DataGrid/sorting.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DataGrid/validation.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DataGrid/validation.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DockPanel.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DockPanel.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DropShadowPanel.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/DropShadowPanel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/Expander.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/Expander.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/GridSplitter.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/GridSplitter.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/HamburgerMenu.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/HamburgerMenu.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/HeaderedContentControl.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/HeaderedContentControl.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/HeaderedItemsControl.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/HeaderedItemsControl.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/HeaderedTextBlock.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/HeaderedTextBlock.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/ImageEx.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/ImageEx.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/InAppNotification/InAppNotification.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/InAppNotification/InAppNotification.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/InAppNotification/MicrosoftEdge-Notification-Style.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/InAppNotification/MicrosoftEdge-Notification-Style.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/InAppNotification/VisualStudioCode-Notification-style.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/InAppNotification/VisualStudioCode-Notification-style.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/InfiniteCanvas.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/InfiniteCanvas.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/LoadingXamlControl.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/LoadingXamlControl.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/MasterDetailsView.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/MasterDetailsView.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/Menu.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/Menu.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/OrbitView.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/OrbitView.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/PullToRefreshListView.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/PullToRefreshListView.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/RadialGauge.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/RadialGauge.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/RadialProgressBar.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/RadialProgressBar.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/RangeSelector.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/RangeSelector.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/RotatorTile.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/RotatorTile.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/ScrollHeader.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/ScrollHeader.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/SlidableListItem.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/SlidableListItem.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/TextToolbar.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/TextToolbar.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/TileControl.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/TileControl.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/UniformGrid/DialogButtons.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/UniformGrid/DialogButtons.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/UniformGrid/FixedChild.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/UniformGrid/FixedChild.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/UniformGrid/Orientation.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/UniformGrid/Orientation.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/UniformGrid/SizedChild.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/UniformGrid/SizedChild.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/UniformGrid/SizedRowCol.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/UniformGrid/SizedRowCol.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/UniformGrid/Spacing.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/UniformGrid/Spacing.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/WebView/web-view-samples.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/WebView/web-view-samples.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/WrapPanel.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Controls/WrapPanel.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/DeveloperTools-AlignmentGrid.JPG",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/DeveloperTools-AlignmentGrid.JPG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/DeveloperTools-FocusTracker.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/DeveloperTools-FocusTracker.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/DeveloperTools/AlignmentGrid.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/DeveloperTools/AlignmentGrid.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/DeveloperTools/FocusTracker.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/DeveloperTools/FocusTracker.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Extensions/MiddleClickScrolling.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Extensions/MiddleClickScrolling.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Extensions/SurfaceDialTextbox.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Extensions/SurfaceDialTextbox.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Extensions/TextBoxMask.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Extensions/TextBoxMask.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Extensions/TextBoxRegex.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Extensions/TextBoxRegex.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Graph/AadLogin.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Graph/AadLogin.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Graph/PeoplePicker.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Graph/PeoplePicker.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Graph/ProfileCard.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Graph/ProfileCard.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Graph/SharePointFileList.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Graph/SharePointFileList.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/LoadingXamlControl.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/LoadingXamlControl.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/ManageNugetPackages.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/ManageNugetPackages.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Notifications-LiveTile.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Notifications-LiveTile.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Notifications-PopToast.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Notifications-PopToast.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Notifications-WeatherLiveTileAndToast.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Notifications-WeatherLiveTileAndToast.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Notifications/LiveTile.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Notifications/LiveTile.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Notifications/PopToast.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Notifications/PopToast.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/NugetPackages.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/NugetPackages.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/ParallaxService.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/ParallaxService.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/ReorderGrid.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/ReorderGrid.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Styles-NavigationView.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Styles-NavigationView.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/SurfaceDialTextboxAnim.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/SurfaceDialTextboxAnim.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/SurfaeDial.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/SurfaeDial.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/TileControl.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/TileControl.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Toolkit_Responsive_Behavior_v01_img-MD-SM.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Toolkit_Responsive_Behavior_v01_img-MD-SM.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Toolkit_Responsive_Behavior_v01_img-XL.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Toolkit_Responsive_Behavior_v01_img-XL.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/Toolkit_Responsive_Behavior_v01_img-XS.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/Toolkit_Responsive_Behavior_v01_img-XS.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/WinSDKFBInstall.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/WinSDKFBInstall.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/adaptive.GIF",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/adaptive.GIF"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/choosetoolboxitems.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/choosetoolboxitems.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/hamburgermenu.gif",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/hamburgermenu.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/head.GIF",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/head.GIF"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/herotile.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/herotile.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/imageex.GIF",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/imageex.GIF"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/radial.GIF",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/radial.GIF"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/range.GIF",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/range.GIF"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/sampleapp-small.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/sampleapp-small.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/sampleapp.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/sampleapp.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/slideable.GIF",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/slideable.GIF"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/toolboxfinal.png",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/toolboxfinal.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "UWPCommunityToolkitDocs/resources/images/weatherlivetilentoastNotification.GIF",
+      "output": {
+        "resource": {
+          "relative_path": "UWPCommunityToolkitDocs/resources/images/weatherlivetilentoastNotification.GIF"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/AddNugetServices.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/AddNugetServices.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations-Blur.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations-Blur.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations-Fade.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations-Fade.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations-FadeHeader.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations-FadeHeader.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations-Light.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations-Light.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations-Offset.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations-Offset.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations-Rotate.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations-Rotate.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations-Saturation.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations-Saturation.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations-Scale.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations-Scale.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations/AnimationSet/Use-Case-1.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations/AnimationSet/Use-Case-1.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations/AnimationSet/Use-Case-2.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations/AnimationSet/Use-Case-2.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations/Blur/Sample-Output.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations/Blur/Sample-Output.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations/Blur/Use-Case-1.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations/Blur/Use-Case-1.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations/Chaining-Animations-Blur-Fade-Rotate.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations/Chaining-Animations-Blur-Fade-Rotate.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations/Chaining-Animations-Light-Offset-Saturation-Scale.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations/Chaining-Animations-Light-Offset-Saturation-Scale.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations/CompositionAnimations/Example-Output-1.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations/CompositionAnimations/Example-Output-1.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations/Fade/Sample-Output.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations/Fade/Sample-Output.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations/FadeHeader/Sample-Output.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations/FadeHeader/Sample-Output.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations/ImplicitAnimations/Example-Output-1.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations/ImplicitAnimations/Example-Output-1.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations/ImplicitAnimations/Example-Output-2.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations/ImplicitAnimations/Example-Output-2.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations/ImplicitAnimations/Example-Output-3.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations/ImplicitAnimations/Example-Output-3.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations/Light/Sample-Output.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations/Light/Sample-Output.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations/Offset/Sample-Output.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations/Offset/Sample-Output.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations/Offset/Use-Case-1.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations/Offset/Use-Case-1.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations/ParallaxService/Sample-Output.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations/ParallaxService/Sample-Output.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations/ReorderGridAnimation/Sample-Output.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations/ReorderGridAnimation/Sample-Output.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations/Rotate/Sample-Output.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations/Rotate/Sample-Output.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations/Saturation/Sample-Output.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations/Saturation/Sample-Output.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations/Saturation/Use-Case-1.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations/Saturation/Use-Case-1.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations/Scale/Sample-Output.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations/Scale/Sample-Output.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations/Scale/Use-Case-1.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations/Scale/Use-Case-1.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Animations/connected.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Animations/connected.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Brushes-BackdropBlur.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Brushes-BackdropBlur.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Brushes-BackdropGamma.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Brushes-BackdropGamma.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Brushes-BackdropInvert.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Brushes-BackdropInvert.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Brushes-BackdropSaturation.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Brushes-BackdropSaturation.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Brushes-BackdropSepia.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Brushes-BackdropSepia.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Brushes-ImageBlend.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Brushes-ImageBlend.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Brushes-RadialGradient.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Brushes-RadialGradient.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Brushes/BackdropBlur.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Brushes/BackdropBlur.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Brushes/BackdropGamma.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Brushes/BackdropGamma.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Brushes/BackdropInvert.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Brushes/BackdropInvert.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Brushes/BackdropSaturation.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Brushes/BackdropSaturation.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Brushes/BackdropSepia.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Brushes/BackdropSepia.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Brushes/ImageBlend.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Brushes/ImageBlend.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Brushes/RadialGradient.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Brushes/RadialGradient.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/CodeAnalysis.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/CodeAnalysis.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/CodeAnalysisVB.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/CodeAnalysisVB.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/CodeFixSuggestion.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/CodeFixSuggestion.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/CodeFixSuggestionVB.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/CodeFixSuggestionVB.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-AdaptiveGridView.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-AdaptiveGridView.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-BladeView.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-BladeView.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-Carousel-InvertPositive01.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-Carousel-InvertPositive01.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-Carousel-InvertPositive02.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-Carousel-InvertPositive02.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-Carousel-ItemDepth01.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-Carousel-ItemDepth01.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-Carousel-ItemDepth02.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-Carousel-ItemDepth02.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-Carousel-ItemMargin01.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-Carousel-ItemMargin01.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-Carousel-ItemMargin02.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-Carousel-ItemMargin02.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-Carousel-ItemRotation.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-Carousel-ItemRotation.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-Carousel-Orientation.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-Carousel-Orientation.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-Carousel-Overview.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-Carousel-Overview.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-DockPanel.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-DockPanel.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-DropShadowPanel.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-DropShadowPanel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-Expander.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-Expander.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-GridSplitter.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-GridSplitter.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-HamburgerMenu.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-HamburgerMenu.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-HeaderedContentControl.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-HeaderedContentControl.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-HeaderedItemsControl.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-HeaderedItemsControl.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-HeaderedTextBlock.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-HeaderedTextBlock.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-ImageEx.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-ImageEx.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-InAppNotification.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-InAppNotification.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-MarkdownTextBlock.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-MarkdownTextBlock.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-MasterDetailsView.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-MasterDetailsView.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-Menu.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-Menu.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-OrbitView.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-OrbitView.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-PullToRefreshListView.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-PullToRefreshListView.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-RadialGauge.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-RadialGauge.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-RadialProgressBar.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-RadialProgressBar.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-RangeSelector.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-RangeSelector.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-RotatorTile.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-RotatorTile.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-ScrollHeader.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-ScrollHeader.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-SlidableListItem.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-SlidableListItem.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-StaggeredPanel.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-StaggeredPanel.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-TextBoxMask.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-TextBoxMask.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-TextBoxRegex.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-TextBoxRegex.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-TextToolbar.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-TextToolbar.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls-WrapPanel.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls-WrapPanel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/AdaptiveGridView.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/AdaptiveGridView.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/AdaptiveGridView/AdaptiveGridView-DesiredWidthItemHeight.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/AdaptiveGridView/AdaptiveGridView-DesiredWidthItemHeight.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/AdaptiveGridView/AdaptiveGridView-OneRowMode.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/AdaptiveGridView/AdaptiveGridView-OneRowMode.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/AdaptiveGridView/AdaptiveGridView-ViewboxAspectRatio.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/AdaptiveGridView/AdaptiveGridView-ViewboxAspectRatio.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/BladeView.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/BladeView.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/Carousel-Overview.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/Carousel-Overview.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/DataGrid/DataGrid.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/DataGrid/DataGrid.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/DataGrid/alternaterowbackground.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/DataGrid/alternaterowbackground.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/DataGrid/editing.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/DataGrid/editing.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/DataGrid/frozencolumns.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/DataGrid/frozencolumns.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/DataGrid/gridlines.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/DataGrid/gridlines.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/DataGrid/grouping.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/DataGrid/grouping.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/DataGrid/resizecolumns.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/DataGrid/resizecolumns.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/DataGrid/rowdetails.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/DataGrid/rowdetails.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/DataGrid/selection.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/DataGrid/selection.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/DataGrid/sorting.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/DataGrid/sorting.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/DataGrid/validation.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/DataGrid/validation.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/DockPanel.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/DockPanel.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/DropShadowPanel.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/DropShadowPanel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/Expander.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/Expander.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/GridSplitter.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/GridSplitter.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/HamburgerMenu.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/HamburgerMenu.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/HeaderedContentControl.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/HeaderedContentControl.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/HeaderedItemsControl.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/HeaderedItemsControl.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/HeaderedTextBlock.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/HeaderedTextBlock.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/ImageEx.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/ImageEx.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/InAppNotification/InAppNotification.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/InAppNotification/InAppNotification.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/InAppNotification/MicrosoftEdge-Notification-Style.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/InAppNotification/MicrosoftEdge-Notification-Style.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/InAppNotification/VisualStudioCode-Notification-style.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/InAppNotification/VisualStudioCode-Notification-style.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/InfiniteCanvas.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/InfiniteCanvas.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/LoadingXamlControl.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/LoadingXamlControl.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/MasterDetailsView.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/MasterDetailsView.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/Menu.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/Menu.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/OrbitView.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/OrbitView.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/PullToRefreshListView.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/PullToRefreshListView.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/RadialGauge.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/RadialGauge.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/RadialProgressBar.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/RadialProgressBar.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/RangeSelector.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/RangeSelector.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/RotatorTile.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/RotatorTile.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/ScrollHeader.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/ScrollHeader.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/SlidableListItem.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/SlidableListItem.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/TextToolbar.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/TextToolbar.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/TileControl.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/TileControl.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/UniformGrid/DialogButtons.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/UniformGrid/DialogButtons.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/UniformGrid/FixedChild.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/UniformGrid/FixedChild.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/UniformGrid/Orientation.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/UniformGrid/Orientation.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/UniformGrid/SizedChild.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/UniformGrid/SizedChild.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/UniformGrid/SizedRowCol.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/UniformGrid/SizedRowCol.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/UniformGrid/Spacing.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/UniformGrid/Spacing.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/WebView/web-view-samples.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/WebView/web-view-samples.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Controls/WrapPanel.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Controls/WrapPanel.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/DeveloperTools-AlignmentGrid.JPG",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/DeveloperTools-AlignmentGrid.JPG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/DeveloperTools-FocusTracker.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/DeveloperTools-FocusTracker.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/DeveloperTools/AlignmentGrid.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/DeveloperTools/AlignmentGrid.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/DeveloperTools/FocusTracker.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/DeveloperTools/FocusTracker.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Extensions/MiddleClickScrolling.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Extensions/MiddleClickScrolling.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Extensions/SurfaceDialTextbox.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Extensions/SurfaceDialTextbox.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Extensions/TextBoxMask.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Extensions/TextBoxMask.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Extensions/TextBoxRegex.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Extensions/TextBoxRegex.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Graph/AadLogin.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Graph/AadLogin.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Graph/PeoplePicker.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Graph/PeoplePicker.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Graph/ProfileCard.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Graph/ProfileCard.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Graph/SharePointFileList.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Graph/SharePointFileList.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/LoadingXamlControl.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/LoadingXamlControl.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/ManageNugetPackages.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/ManageNugetPackages.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Notifications-LiveTile.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Notifications-LiveTile.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Notifications-PopToast.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Notifications-PopToast.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Notifications-WeatherLiveTileAndToast.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Notifications-WeatherLiveTileAndToast.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Notifications/LiveTile.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Notifications/LiveTile.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Notifications/PopToast.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Notifications/PopToast.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/NugetPackages.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/NugetPackages.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/ParallaxService.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/ParallaxService.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/ReorderGrid.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/ReorderGrid.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Styles-NavigationView.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Styles-NavigationView.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/SurfaceDialTextboxAnim.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/SurfaceDialTextboxAnim.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/SurfaeDial.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/SurfaeDial.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/TileControl.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/TileControl.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Toolkit_Responsive_Behavior_v01_img-MD-SM.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Toolkit_Responsive_Behavior_v01_img-MD-SM.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Toolkit_Responsive_Behavior_v01_img-XL.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Toolkit_Responsive_Behavior_v01_img-XL.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/Toolkit_Responsive_Behavior_v01_img-XS.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/Toolkit_Responsive_Behavior_v01_img-XS.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/WinSDKFBInstall.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/WinSDKFBInstall.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/adaptive.GIF",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/adaptive.GIF"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/choosetoolboxitems.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/choosetoolboxitems.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/hamburgermenu.gif",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/hamburgermenu.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/head.GIF",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/head.GIF"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/herotile.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/herotile.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/imageex.GIF",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/imageex.GIF"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/radial.GIF",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/radial.GIF"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/range.GIF",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/range.GIF"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/sampleapp-small.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/sampleapp-small.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/sampleapp.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/sampleapp.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/slideable.GIF",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/slideable.GIF"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/toolboxfinal.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/toolboxfinal.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/images/weatherlivetilentoastNotification.GIF",
+      "output": {
+        "resource": {
+          "relative_path": "resources/images/weatherlivetilentoastNotification.GIF"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: it's disabled.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

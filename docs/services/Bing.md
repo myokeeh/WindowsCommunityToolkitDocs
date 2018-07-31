@@ -15,7 +15,7 @@ The **Bing Service** allows you to retrieve Bing results. Bing can return web an
 ## Set up Bing API
 
 > [!NOTE]
-The current version does not require the API key and is using the rate limited public access point.  The ability to specify your own key to remove the rate limits is on our backlog for a future release.
+> The current version does not require the API key and is using the rate limited public access point.  The ability to specify your own key to remove the rate limits is on our backlog for a future release.
 
 [Signup for API Access](https://www.microsoft.com/cognitive-services/sign-up) using your Microsoft account.  There is a free trial option for all of the Bing services (fully functional, just with API rate limits or capacity limits).
 
@@ -54,10 +54,10 @@ ListView.ItemsSource = Await BingService.Instance.RequestAsync(searchConfig, 50)
 
 ### Methods
 
-| Methods | Return Type | Description |
-| -- | -- | -- |
-| GetDataAsync(BingSearchConfig, Int32, Int32, IParser) | Task<IEnumerable<TSchema>> | Wrapper around REST API for making data request |
-| GetDefaultParser(BingSearchConfig) | IParser<[BingResult](https://docs.microsoft.com/dotnet/api/microsoft.toolkit.services.bing.bingresult)> | Returns parser implementation for specified configuration |
+|                        Methods                        |                                               Return Type                                               |                        Description                        |
+|-------------------------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| GetDataAsync(BingSearchConfig, Int32, Int32, IParser) |                                       Task<IEnumerable<TSchema>>                                        |      Wrapper around REST API for making data request      |
+|          GetDefaultParser(BingSearchConfig)           | IParser<[BingResult](https://docs.microsoft.com/dotnet/api/microsoft.toolkit.services.bing.bingresult)> | Returns parser implementation for specified configuration |
 
 ## BingParser Class
 
@@ -65,8 +65,8 @@ ListView.ItemsSource = Await BingService.Instance.RequestAsync(searchConfig, 50)
 
 ### Methods
 
-| Methods | Return Type | Description |
-| -- | -- | -- |
+|    Methods    |                                                 Return Type                                                 |                   Description                    |
+|---------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
 | Parse(String) | IEnumerable<[BingResult](https://docs.microsoft.com/dotnet/api/microsoft.toolkit.services.bing.bingresult)> | Take string data and parse into strong data type |
 
 ## BingResult Class
